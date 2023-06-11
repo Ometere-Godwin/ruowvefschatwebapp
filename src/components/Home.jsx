@@ -1,6 +1,7 @@
 import React from "react";
 import SideBar from "./SideBar";
 import MessageHeader from "./MessageHeader";
+import Messages from "./Messages";
 
 export default function Home() {
   return (
